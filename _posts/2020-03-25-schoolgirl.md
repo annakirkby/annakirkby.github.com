@@ -2,7 +2,7 @@
 title: Schoolgirl
 image: /images/schoolgirl.png
 ---
-Colouring page #3. Print out the [PDF], and colour it in yourself.
+Colouring page #6. Print out the [PDF], and colour it in yourself.
 
 ![png]
 
