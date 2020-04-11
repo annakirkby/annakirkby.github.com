@@ -8,5 +8,5 @@ Colouring page #20. Print out the [PDF], and colour it in yourself.
 
 Media I used:Art Markers
 
-[png]: /images/happychibi .png
+[png]: /images/happychibi.png
 [PDF]: /images/happychibi.pdf
