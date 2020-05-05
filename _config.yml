@@ -9,3 +9,4 @@ defaults:
       path: ""
     values:
       hero_image: /images/hero.jpg
+      hero_darken: True
