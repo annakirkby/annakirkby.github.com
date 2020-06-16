@@ -9,4 +9,4 @@ Colouring page #6. Print out the [PDF], and colour it in yourself.
 Media I used: Art markers
 
 [png]: /images/schoolgirl.png
-[PDF]: /images/schoolgirll.pdf
+[PDF]: /images/schoolgirl.pdf
