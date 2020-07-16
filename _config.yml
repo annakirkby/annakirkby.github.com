@@ -1,5 +1,6 @@
 title: Anna Kirkby
 remote_theme: chrisrhymes/bulma-clean-theme
+favicon: https://github.com/annakirkby.png
 paginate: 5
 paginate_path: "/colouring/page:num"
 
